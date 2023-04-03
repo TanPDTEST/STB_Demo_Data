@@ -38,9 +38,9 @@
     },
     {
       "DEFAULT.SPREAD" : "0.3",
-      "BUY.RATE" : "25500",
+      "BUY.RATE" : "28500",
       "SELL.RATE" : "24700",
-      "NEGOTIABLE.AMT" : "10000000",
+      "NEGOTIABLE.AMT" : "20000000",
       "CURRENCY.MARKET" : "10",
       "MID.REVAL.RATE" : "3.35"
     } ]
